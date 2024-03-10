@@ -10,7 +10,8 @@ Java Message Sender is a simple Java application that enables sending messages a
 
 - Add more integrations if you want
 
-- ![Zrzut ekranu 2024-03-10 154908](https://github.com/Dominiq217/AutoMessage/assets/97559453/fa2ea0da-aa82-4758-9e7d-e7afc8712765)
+- ![Zrzut ekranu 2024-03-10 154908](https://github.com/Dominiq217/AutoMessage/assets/97559453/4434d5ef-351b-4db1-8ccc-75bbb5633584)
+
 
 
 ## Appendix
@@ -37,7 +38,8 @@ To run this project you need to have the following libraries but it's quite logi
 `java.awt.event.KeyEvent;`
 
 
-![giphy](https://github.com/Dominiq217/AutoMessage/assets/97559453/7cfeb66d-9c32-489e-a753-7bdcbe28a05b)
+![giphy](https://github.com/Dominiq217/AutoMessage/assets/97559453/2d07c05d-1116-4281-b0fe-cc6d42677bb4)
+
 ## Authors
 
 - [Dominiq217](https://github.com/Dominiq217)

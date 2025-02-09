@@ -42,5 +42,5 @@ To run this project you need to have the following libraries but it's quite logi
 
 ## Authors
 
-- [Dominiq217](https://github.com/dogopro1)
+- [dogopro](https://github.com/dogopro1)
 

@@ -20,11 +20,11 @@ don't persecute good people
 
 ## FAQ
 
-#### if you want to use it for bad purposes or to torment people
+##### if you want to use it for bad purposes or to torment people
 
 it's not for that and I have nothing to do with it
 
-#### if you want to make a repeating task much easier
+##### if you want to make a repeating task much easier
 
 It is For This
 
